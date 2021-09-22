@@ -1,0 +1,15 @@
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net5.0\LinkedLists.exe
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net5.0\LinkedLists.deps.json
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net5.0\LinkedLists.runtimeconfig.json
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net5.0\LinkedLists.runtimeconfig.dev.json
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net5.0\LinkedLists.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net5.0\ref\LinkedLists.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\bin\Debug\net5.0\LinkedLists.pdb
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\LinkedLists.AssemblyInfo.cs
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\LinkedLists.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\ref\LinkedLists.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\LinkedLists.pdb
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\CSharpAlgorithms\obj\Debug\net5.0\LinkedLists.genruntimeconfig.cache

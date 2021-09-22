@@ -1,0 +1,16 @@
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\bin\Debug\net5.0\StackBuilt.exe
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\bin\Debug\net5.0\StackBuilt.deps.json
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\bin\Debug\net5.0\StackBuilt.runtimeconfig.json
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\bin\Debug\net5.0\StackBuilt.runtimeconfig.dev.json
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\bin\Debug\net5.0\StackBuilt.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\bin\Debug\net5.0\ref\StackBuilt.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\bin\Debug\net5.0\StackBuilt.pdb
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.csproj.AssemblyReference.cache
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.AssemblyInfoInputs.cache
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.AssemblyInfo.cs
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.csproj.CoreCompileInputs.cache
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\ref\StackBuilt.dll
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.pdb
+C:\Users\diluitel\Documents\SWE\Exercises\C Sharp Algorithms\CSharpAlgorithms\StackBuilt\obj\Debug\net5.0\StackBuilt.genruntimeconfig.cache
